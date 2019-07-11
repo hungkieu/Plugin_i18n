@@ -1,0 +1,13 @@
+[
+  {
+    "caption": "I18n",
+    "id": "I18n",
+    "children":
+    [
+      {
+        "caption": "Get Key",
+        "command": "i18n"
+      }
+    ]
+  }
+]
